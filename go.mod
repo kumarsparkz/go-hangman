@@ -1,3 +1,3 @@
-module github.com/kumarsparkz/gohangman
+module github.com/kumarsparkz/Gohangman
 
 go 1.12
